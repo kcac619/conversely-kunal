@@ -4,11 +4,14 @@
 
 This project is a simple React application that demonstrates the creation and manipulation of a 3x3 matrix grid. The application includes the following features:
 
-1. Interactive 3x3 Grid: A 3x3 matrix of clickable boxes is displayed. Each box starts with a white background.
-2. Color Change on Click: When a box is clicked, its color changes to green.
-   Sequence-Based Color Transition: Once all boxes have been clicked, each box's color transitions to orange in the order of their clicks, creating a visual sequence.
-3. Reset Functionality: A reset button is provided to clear the grid and reset the colors of all boxes to their initial white state.
-4. Heading: The application includes a centered heading titled "Kunal Chhatwani Assignment" for easy identification.
+1.  **Interactive 3x3 Grid:** A 3x3 matrix of clickable boxes is displayed. Each box starts with a white background.
+
+2.  **Color Change on Click:** When a box is clicked, its color changes to green.
+    Sequence-Based Color Transition: Once all boxes have been clicked, each box's color transitions to orange in the order of their clicks, creating a visual sequence.
+
+3.  **Reset Functionality:** A reset button is provided to clear the grid and reset the colors of all boxes to their initial white state.
+
+4.  **Heading:** The application includes a centered heading titled "Kunal Chhatwani Assignment" for easy identification.
 
 The project serves as an excellent example of handling state and event-driven updates in a React application. It showcases fundamental React concepts such as state management with hooks (useState), event handling, conditional rendering, and dynamic style updates.
 
